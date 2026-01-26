@@ -1,1 +1,1 @@
-# cours_ml_envcan
+# Cours d'introduction au machine learning
